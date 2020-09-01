@@ -9,6 +9,7 @@
 **LABS**
 - [Labs Student Guide](https://www.notion.so/Labs-26-Student-Guide-95d845339f8041de85252f743f0d709d)
 - [Labs Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19hMG5ydDdsNWhpbm52OHM4bHVwMmJpN2tjc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Module and Sprint Submission Instructions](https://www.notion.so/Module-and-Sprint-Entry-Submission-Logistics-a6003eb8288b4fd1af0fb40a1a42d278)
 
 **DS STARTER**
 - [Labs DS Docs](https://docs.labs.lambdaschool.com/data-science/)
