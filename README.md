@@ -10,10 +10,11 @@
 - [Labs Student Guide](https://www.notion.so/Labs-26-Student-Guide-95d845339f8041de85252f743f0d709d)
 - [Labs Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19hMG5ydDdsNWhpbm52OHM4bHVwMmJpN2tjc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Module and Sprint Submission Instructions](https://www.notion.so/Module-and-Sprint-Entry-Submission-Logistics-a6003eb8288b4fd1af0fb40a1a42d278)
+- [Labs Curriculum](https://github.com/LambdaSchool/labs-curriculum/tree/master/Labs%20Curriculum) (Sprint and Module Prompts)
 
 **DS STARTER**
 - [Labs DS Docs](https://docs.labs.lambdaschool.com/data-science/)
-- [Labs DS Notebook - Ryan Herr](https://colab.research.google.com/drive/1MbF-L6mKy_JA9L6wxBCb5_Vch3PX3RRL?usp=sharing)
+- [Labs DS Notebook](https://colab.research.google.com/drive/1MbF-L6mKy_JA9L6wxBCb5_Vch3PX3RRL?usp=sharing) - Ryan Herr
 
 **CITRICS**
 - [Citrics Product Overview](https://www.notion.so/Labs-26-Product-Overview-a81834be6b7d4fefb3c1291bb17e2c23)
