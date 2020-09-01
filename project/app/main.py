@@ -4,9 +4,11 @@ import uvicorn
 
 from app.api import predict, viz
 
+DESC_TEXT = "Finding a place to live is hard! Nomads struggle with finding the right city for them. Citrics is a city comparison tool that allows users to compare cities and find cities based on user preferences."
+
 app = FastAPI(
-    title='YOUR-PRODUCT-TEAM-NAME DS API',
-    description='Replace this placeholder text',
+    title='Citrics API',
+    description=DESC_TEXT,
     version='0.1',
     docs_url='/',
 )
